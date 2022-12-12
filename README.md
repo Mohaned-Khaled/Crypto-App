@@ -1,5 +1,6 @@
 # Check Live: [https://crypto-currencies-app.netlify.app/)
-This project is developed by MOHANAD KHALED
+This project is developed by MOHANAD KHALED, using react with react-router-dom, chartJs and styling using tailwindcss.
+also dealing with custom hooks and public api
 
 # Getting Started with Create React App
 
